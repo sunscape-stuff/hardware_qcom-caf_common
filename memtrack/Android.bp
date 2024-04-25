@@ -1,3 +1,6 @@
+soong_namespace {
+}
+
 cc_binary {
     name: "vendor.qti.hardware.memtrack-service",
     relative_install_path: "hw",
