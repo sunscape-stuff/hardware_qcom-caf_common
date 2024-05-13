@@ -11,4 +11,4 @@ UM_4_19_BENGAL_FAMILY := bengal
 UM_4_19_KONA_FAMILY := kona lito
 UM_5_4_FAMILY := lahaina holi
 UM_5_10_FAMILY := taro parrot
-UM_5_15_FAMILY := kalama
+UM_5_15_FAMILY := kalama crow
